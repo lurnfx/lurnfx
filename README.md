@@ -18,8 +18,7 @@ Java Full Stack Developer<br>Working on Loan Projects<br>Learning AWS, DOCKER<br
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lurnfx&icon=0&color=0)](https://visitcount.itsvg.in)

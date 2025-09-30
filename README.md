@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Full Stack Developer<br>Working on Loan Projects<br>Learning AWS, DOCKER<br>Open to Work<br>
+Java Full Stack Developer<br>Working, Learning<br>Open to Work<br>
 
 
 ## 🌐 Socials:
